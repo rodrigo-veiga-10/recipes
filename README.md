@@ -1,2 +1,2 @@
 # recipes
-#the recipes projetc from Odin project
+the recipes projetc from Odin project
