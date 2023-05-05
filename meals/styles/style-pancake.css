@@ -13,6 +13,13 @@ h1, h2 {
     text-align: center;
     list-style-position: inside;
 }
+/*animation when cursor is on the list, css*/
+
+.list:hover{
+    background-color: #444444;
+    color: #ffffff;
+}
+
 .list li {
     padding-left: 35em;
     text-align: left;
